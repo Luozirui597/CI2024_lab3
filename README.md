@@ -1,0 +1,1 @@
+The cost of Greedy is 10421 and the cost of BFS is 16867, we can see that the performance of Greedy is better than BFS, however, when N>=4, the computation time of the two algorithms grows significantly, even more than 1 hour, so there is still a lot of room for improvement in my program
